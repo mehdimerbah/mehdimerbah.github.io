@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome"
 date:   2021-04-19 06:33:23 +0100
-categories: jekyll update
+categories: posts
 ---
 
 
