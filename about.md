@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a Bioinformatics undergraduate student at the [Lebanese American University](https://www.lau.edu.lb/) under The [U.S-MEPI Tomorrow's Leaders Scholarship Program](https://mepi.state.gov/leadership/tomorrows-leaders-program/tlu/).
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Before joining LAU in the fall 2018 semester, I was a student at the [Institute of Electrical and Electronic Engineering](https://fr.wikipedia.org/wiki/Institut_de_g%C3%A9nie_%C3%A9lectrique_et_d%27%C3%A9lectronique) in Boumerdes, Algeria.
