@@ -4,7 +4,7 @@ title: Readings
 permalink: /readings/
 ---
 
-### 2021 Book List:
+### 2021 Book List
 
 - [x]  Outliers - Malcolm Gladwell
 - [x]  Ego is the Enemy - Ryan Holiday
@@ -13,6 +13,7 @@ permalink: /readings/
 - [ ]  How to Think Like a Roman Emperor - Donald Robertson
 - [ ]  Les Vigiles - Tahar Djaout
 - [ ]  Les Chercheurs d'Os - Tahar Djaout
+- [ ]  Manufacturing Consent - Noam Chomsky
 
 ### Favourite Articles and Blogs
 - [Raw Nerve Series](http://www.aaronsw.com/weblog/rawnerve) - Aaron Swartz
