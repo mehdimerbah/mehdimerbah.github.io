@@ -8,12 +8,16 @@ permalink: /readings/
 
 - [x]  Outliers - Malcolm Gladwell
 - [x]  Ego is the Enemy - Ryan Holiday
-- [ ]  Philosophy of Religion: A Very Short Introduction - Tim Bayne 
+- [x]  Philosophy of Religion: A Very Short Introduction - Tim Bayne 
 - [x]  Crime and Punishment - Fyodor Dostoevsky
-- [ ]  How to Think Like a Roman Emperor - Donald Robertson
-- [ ]  Les Vigiles - Tahar Djaout
-- [ ]  Les Chercheurs d'Os - Tahar Djaout
-- [ ]  Manufacturing Consent - Noam Chomsky
+- [x]  How to Think Like a Roman Emperor - Donald Robertson
+- [x]  Manufacturing Consent - Noam Chomsky
+
+### 2023 Book List
+
+- [x] Le Mythe de Sisyphe - Albert Camus
+- []  Les Vigiles - Tahar Djaout
+- []  Les Chercheurs d'Os - Tahar Djaout
 
 ### Favourite Articles and Blogs
 - [Raw Nerve Series](http://www.aaronsw.com/weblog/rawnerve) - Aaron Swartz
