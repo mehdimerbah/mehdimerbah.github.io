@@ -4,11 +4,11 @@
     <title>Mehdi Merbah</title>
     <description>This is my personal website. I try to keep this updated with my most recent projects and write some thoughts in my blog.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 06 Jun 2021 23:43:26 +0100</pubDate>
-    <lastBuildDate>Sun, 06 Jun 2021 23:43:26 +0100</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 04 Dec 2023 10:45:13 +0100</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2023 10:45:13 +0100</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>A Review of The Ontological Argument</title>
@@ -63,8 +63,8 @@ C- God cannot exist only in the understanding.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 05 May 2021 23:31:04 +0100</pubDate>
-        <link>http://yourdomain.com/posts/2021/05/05/onto_argument.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/posts/2021/05/05/onto_argument.html</guid>
+        <link>http://localhost:4000/posts/2021/05/05/onto_argument.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2021/05/05/onto_argument.html</guid>
         
         
         <category>posts</category>
@@ -76,8 +76,8 @@ C- God cannot exist only in the understanding.&lt;/p&gt;
         <description>&lt;p&gt;This is just my introductory post. Hello curious reader!&lt;/p&gt;
 </description>
         <pubDate>Thu, 08 Apr 2021 06:33:23 +0100</pubDate>
-        <link>http://yourdomain.com/posts/2021/04/08/welcome-post.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/posts/2021/04/08/welcome-post.html</guid>
+        <link>http://localhost:4000/posts/2021/04/08/welcome-post.html</link>
+        <guid isPermaLink="true">http://localhost:4000/posts/2021/04/08/welcome-post.html</guid>
         
         
         <category>posts</category>
