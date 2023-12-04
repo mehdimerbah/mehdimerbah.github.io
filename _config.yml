@@ -1,12 +1,18 @@
 # Site settings
+
 title: Mehdi Merbah
 #email: mehdimerbah@outlook.com
+
 description: > # this means to ignore newlines until "baseurl:"
   This is my personal website. I try to keep this updated with my most recent projects and write some thoughts in my blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "https://mehdimerbah.github.io" # the base hostname & protocol for your site
+
+# Socials
 twitter_username: mehdimerbah
 github_username:  mehdimerbah
+linkedin_username: mehdi-merbah
+
 # Build settings
 markdown: kramdown
 
