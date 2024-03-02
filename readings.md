@@ -8,8 +8,8 @@ permalink: /readings/
 ### 2023 Book List
 
 - [x] Le Mythe de Sisyphe - Albert Camus
-- [ ]  Les Vigiles - Tahar Djaout
-- [ ]  Les Chercheurs d'Os - Tahar Djaout
+- [x]  Les Vigiles - Tahar Djaout
+- [x]  Les Chercheurs d'Os - Tahar Djaout
 
 
 ### Favourite Articles and Blogs
