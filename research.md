@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 permalink: /research/
 ---
 
@@ -21,9 +21,6 @@ Comparative study of ML approaches for GRN inference from Glioma transcriptome d
 [**Computational Drug Discovery**](https://github.com/mehdimerbah/CompDrugDiscovery) (2022)
 ML pipeline for drug activity prediction targeting SARS coronavirus 3C-like proteinase using molecular fingerprints.
 
-[**Chemotherapy and SARS-CoV-2 Co-morbidity Analysis**](https://github.com/mehdimerbah/chemotherapy-COVID19-study) (2022)
-Analysis of chemotherapy agents and COVID-19 severity correlations.
-
 [**Whole Exome Sequencing Pipeline**](https://github.com/mehdimerbah/WES) (2020)
 End-to-end WES analysis including QC, alignment, variant calling per GATK best practices.
 
@@ -41,7 +38,7 @@ Solutions to computational biology problems from ROSALIND.
 ## Machine Learning
 
 [**COVID-19 Fake News Detection**](https://github.com/mehdimerbah/COVID19_fake_news_detection) (2021)
-Multimodal classification approach comparing Logistic Regression, SVM, KNN, and Bi-LSTM. Achieved 92.3% accuracy.
+Multimodal classification approach comparing Logistic Regression, SVM, KNN, and Bi-LSTM. 
 
 ---
 
@@ -58,4 +55,4 @@ Custom RL algorithms (TD3, DDPG) for university robotics competition.
 Introduction to Python, Bash, and Perl for bioinformatics applications.
 
 [**Introduction to Bash Workshop**](https://github.com/mehdimerbah/BashWorkshop) (2021)
-Workshop materials delivered at Kent State University.
+Workshop materials I delivered for HacKSU student club at Kent State University.
