@@ -5,7 +5,7 @@ title: Home
 
 # Mehdi Merbah
 
-I am a Bioinformatics MSc student at the [University of Tübingen](https://uni-tuebingen.de/) and ML Researcher at [pi_optimal](https://www.pi-optimal.com/), a startup building AI systems for autonomous workflow optimization.
+I am a Bioinformatics MSc student at the [University of Tübingen](https://uni-tuebingen.de/) and ML Researcher at [pi_optimal](https://www.pi-optimal.com/), a startup where we are building AI systems for autonomous workflow optimization.
 
 My interests lie at the intersection of **computational biology** and **deep learning**. I am particularly interested in:
 
