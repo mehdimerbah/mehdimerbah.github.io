@@ -45,7 +45,7 @@ Multimodal classification approach comparing Logistic Regression, SVM, KNN, and 
 ## Reinforcement Learning
 
 [**optimal-puck**](https://github.com/mehdimerbah/optimal-puck)
-Custom RL algorithms (TD3, DDPG) for university robotics competition.
+An experimental research repository for running Reinforcement Learning experiments on the LaserHockey environment for the RL course by Dr. Georg Martius. It provides the implementations and training, tuning and evaluation pipelines for the DDPG and TD3 algorithms with custom enhancements like Prioritzed Experience Replay and ablation of different noise injections for exploration. Setup supports both standard and self-play training and is well-logged into Weights&Biases.
 
 ---
 
