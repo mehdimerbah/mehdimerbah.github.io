@@ -4,15 +4,17 @@ title: Readings
 permalink: /readings/
 ---
 
+## Books
 
-### 2023 Book List
+**2023**
+- Le Mythe de Sisyphe - Albert Camus
+- Les Vigiles - Tahar Djaout
+- Les Chercheurs d'Os - Tahar Djaout
 
-- [x] Le Mythe de Sisyphe - Albert Camus
-- [x]  Les Vigiles - Tahar Djaout
-- [x]  Les Chercheurs d'Os - Tahar Djaout
+---
 
+## Articles & Essays
 
-### Favourite Articles and Blogs
 - [Raw Nerve Series](http://www.aaronsw.com/weblog/rawnerve) - Aaron Swartz
 - [How To Understand Things](https://nabeelqu.co/understanding) - Nabeel Qureshi
 - [The Thinking Ladder](https://waitbutwhy.com/2019/09/thinking-ladder.html) - Tim Urban
