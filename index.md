@@ -17,9 +17,9 @@ My interests lie at the intersection of **computational biology** and **deep lea
 
 ## Background
 
-I grew up in Algeria where I led the national robotics team to a silver medal at FIRST Global 2018. I then moved to Lebanon on a U.S. Department of State scholarship to study Bioinformatics at the [Lebanese American University](https://www.lau.edu.lb/), where my interests focused on ML approaches for gene regulatory network modeling.
+I grew up in Algeria and started my university journey at the National Institute of Electrical and Electronic Engineering, my journey in engineering was cut short, as I then moved to Lebanon on a U.S. Department of State scholarship to study Bioinformatics at the [Lebanese American University](https://www.lau.edu.lb/), where my interests focused on ML approaches for gene regulatory network modeling.
 
-After graduating, I worked as a BI Engineer building data pipelines and ML models, before moving to Germany for my Masters. I joined Stellwerk3, then along with my datascience team formed pi_optimal where I am currently working as an ML researcher/engineer trying to develop scalable AI solutions in different verticals. 
+After graduating, I worked as a BI Engineer building data pipelines and ML models, before moving to Germany for my Masters. I joined Stellwerk3 as a Data Engineer, then along with my datascience team formed pi_optimal where I am currently working as an ML researcher/engineer trying to develop scalable AI solutions in different verticals. 
 
 ---
 
