@@ -7,19 +7,19 @@ permalink: /research/
 ## Bioinformatics
 
 [**Topological Data Analysis of Protein-Protein Interaction Networks**](https://github.com/mehdimerbah/TDA-PPIN) (2023-2024)
-Developed a TDA-based methodology to predict protein complex formation from PPI data using persistent homology with Vietoris-Rips filtration.
+Developing a TDA-based methodology to predict protein complex formation from PPI data using persistent homology with Vietoris-Rips filtration.
 
 [**RNA-seq Pipeline (nf-core)**](https://github.com/mehdimerbah/nf-core-rnaseq) (2025)
 Recreation of a standard RNA-seq analysis pipeline using Nextflow and nf-core best practices.
 
 [**CellCNN: Spatial Transcriptomics**](https://github.com/mehdimerbah/CellCNN) (2024)
-Recreating CellCNN paper results for gene expression analysis using convolutional neural networks.
+Recreating CellCNN paper results for single-cell gene expression analysis using convolutional neural networks.
 
 [**Gene Regulatory Network Modeling**](https://github.com/mehdimerbah/GRNModeling) (2020-2022)
 Comparative study of ML approaches for GRN inference from Glioma transcriptome data.
 
 [**Computational Drug Discovery**](https://github.com/mehdimerbah/CompDrugDiscovery) (2022)
-ML pipeline for drug activity prediction targeting SARS coronavirus 3C-like proteinase using molecular fingerprints.
+ML pipeline for drug activity prediction targeting SARS coronavirus 3C-like protease using molecular fingerprints.
 
 [**Whole Exome Sequencing Pipeline**](https://github.com/mehdimerbah/WES) (2020)
 End-to-end WES analysis including QC, alignment, variant calling per GATK best practices.
