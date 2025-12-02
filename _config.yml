@@ -3,7 +3,7 @@ title: Mehdi Merbah
 email: mehdimerbah@outlook.com
 
 description: >
-  Bioinformatics researcher interested in computational biology, machine learning, and topological data analysis.
+  Bioinformatician and data science enthusiast. In pursuit of the next intriguing rabbit hole.
 baseurl: ""
 url: "https://mehdimerbah.github.io"
 
@@ -17,6 +17,7 @@ theme: minima
 
 # Navigation order
 header_pages:
+  - experience.md
   - research.md
   - blog.md
   - readings.md
